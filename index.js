@@ -8,13 +8,13 @@ function happyHolidaysTo(name) {
 }
 
 function happyHolidayTo(holiday, name) {
-  return 'Happy ${holiday}, ${name}';
+  return "Happy ${holiday}, ${name}";
 }
 
-var holiday = 'Mothers Day';
-var days = 20
+
 function holidayCountdown(holiday, days) {
-  return 'It\'s ${days} days until ${holiday}!';
+  return "It\'s ${days} days until ${holiday}!";
 }
 
- happyHolidaysTo('you')
+ happyHolidaysTo("you");
+ happyHolidayTo("Independence Day", "you")
