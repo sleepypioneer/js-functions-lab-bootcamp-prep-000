@@ -19,4 +19,3 @@ holidayCountdown(holiday, days) {
 }
 
 happyHolidays();
-
