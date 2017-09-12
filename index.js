@@ -22,5 +22,3 @@ function holidayCountdown(holiday, days) {
 };
 
 holidayCountdown("Mother's Day", 20)
-
-
