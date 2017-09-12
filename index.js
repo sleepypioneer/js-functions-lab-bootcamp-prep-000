@@ -1,6 +1,6 @@
 // write your code below!
 happyHolidays() {
-  return "Happy Holidays!"
+  return "Happy holidays!"
 }
 
 happyHolidaysTo(name) {
